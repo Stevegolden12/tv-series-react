@@ -2,14 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\components",
+    "\\src\\assets",
     "\\src\\components\\App",
     "\\src\\components\\Intro",
     "\\src\\components\\Loader",
     "\\src\\components\\Main",
     "\\src\\components\\SeriesList",
     "\\src\\containers",
-    "\\src\\containers\\SingleSeries"
+    "\\src\\containers\\Series"
   ],
   "SelectedNode": "\\src\\containers\\Series\\index.js",
   "PreviewInSolutionExplorer": false
