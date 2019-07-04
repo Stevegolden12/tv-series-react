@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "eslint": "^5.16.0",
-    "handlebars": "^4.0.14",
+    "handlebars": "^4.1.0",
     "js-yaml": "^3.13.1",
     "npm": "^6.7.0",
     "react": "^16.8.6",
