@@ -3,14 +3,9 @@
     "",
     "\\src",
     "\\src\\assets",
-    "\\src\\components\\App",
-    "\\src\\components\\Intro",
-    "\\src\\components\\Loader",
-    "\\src\\components\\Main",
-    "\\src\\components\\SeriesList",
     "\\src\\containers",
     "\\src\\containers\\Series"
   ],
-  "SelectedNode": "\\src\\containers\\Series\\index.js",
+  "SelectedNode": "\\package.json",
   "PreviewInSolutionExplorer": false
 }
