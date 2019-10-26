@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Intro from '../../components/Intro';
 import SeriesList from '../../components/SeriesList'
 import Loader from "../../components/Loader"
+import PropTypes from 'prop-types';
 
 class Series extends Component {
   state = {
@@ -49,6 +50,13 @@ class Series extends Component {
       </div>  
     );
   }
+}
+
+Series.propTypes = {
+  series: PropTypes.array,
+  seriesName: PropTypes.string,
+  isFetching: PropTypes.bool,
+  onSeriesInputChange: PropTypes.func,
 }
 
 export default Series;
