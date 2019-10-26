@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Loader from "../../components/Loader";
+import PropTypes from 'prop-types'
 
 class SingleSeries extends Component {
 	state ={
@@ -36,6 +37,10 @@ class SingleSeries extends Component {
 			</div>
 		)
 	}
+}
+
+SingleSeries.propTypes = {
+  show: PropTypes.array,
 }
 
 export default SingleSeries;

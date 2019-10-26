@@ -3,6 +3,7 @@
     "",
     "\\src",
     "\\src\\assets",
+    "\\src\\components",
     "\\src\\containers",
     "\\src\\containers\\Series"
   ],
